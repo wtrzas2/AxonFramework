@@ -1,0 +1,11 @@
+nondexFilter=.*
+nondexMode=FULL
+nondexSeed=933178
+nondexStart=0
+nondexEnd=9223372036854775807
+nondexPrintstack=false
+nondexDir=/home/wtrzas2/AxonFramework/messaging/.nondex
+nondexJarDir=/home/wtrzas2/AxonFramework/messaging/.nondex
+nondexExecid=5JK0fRotW3nz63ObYS9MJM3mDOwIK1sECutPeAWL0z0=
+nondexLogging=CONFIG
+test=
